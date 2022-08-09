@@ -1,0 +1,82 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+header {
+    background-color: aqua;
+}
+#navbar>nav>a {
+    text-decoration:none;
+    color: brown;
+}
+main {
+background-color: blanchedalmond;
+background-image: url(https://media.lactualite.com/2019/12/361ba8f8-istock-1084346110-1200x675.jpg);
+background-repeat: no-repeat;
+background-origin: border-box;
+background-origin: padding-box;
+background-origin: content-box;
+background-size: cover;
+
+
+
+}
+h1 {
+    color: rgb(102, 87, 5);
+    text-shadow:rgb(12, 12, 8);
+}
+p{
+    color: brown;
+    text-align: center;
+    font-family: Georgia, serif;
+
+}
+img{
+    padding:30px;
+    border-radius: 10em;
+    border: 0ch;
+    
+}
+button {
+    padding:15px;
+    margin-left: 5px;
+    border-radius: 18px;
+    background-color: mediumturquoise;
+    
+}
+button:hover {
+   color: brown;
+}
+table , th , td{
+    border-collapse: collapse;
+    border: 3px solid;
+    width: 50em;
+    text-align: center;
+    border-color: burlywood;
+    padding: 3em;
+    margin: 1,5em;
+    color: rgb(95, 82, 6);
+
+}
+ol,li {
+    color:green;
+}
+input {
+padding: 10px;
+}
+label {
+    color: rgb(1, 1, 19);
+    
+}
+iframe {
+margin: left 15%;
+}
+.para {
+    text-align: left;
+    color: rgb(114, 114, 114);
+    
+}
+footer {
+    background-color: rgb(49, 6, 6);
+
+}
